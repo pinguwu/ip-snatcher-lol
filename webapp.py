@@ -12,4 +12,4 @@ def renderMain():
 
 
 if __name__=="__main__":
-    app.run(debug=False, port=11111)
+    app.run(debug=False, port=12345)
